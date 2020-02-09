@@ -11,6 +11,13 @@
 6. [Newsletter (simple form)](https://yuriy-stryzhak.github.io/simple-form/)
 7. [Cahee (landing page)](https://yuriy-stryzhak.github.io/cahee/)
 8. [Sign in form](https://yuriy-stryzhak.github.io/sign-in-form/)
+9. [Our team](https://yuriy-stryzhak.github.io/our-team/)
+10. [Safe travel](https://yuriy-stryzhak.github.io/safe-travel/)
+11. [More info (jQuery)](https://yuriy-stryzhak.github.io/more-info/)
+12. [Calculator](https://yuriy-stryzhak.github.io/calculator/)
+13. [Sliders](https://yuriy-stryzhak.github.io/sliders/)
+14. [Movies](https://yuriy-stryzhak.github.io/movies/)
+15. [Monticello]()
 
 ```markdown
 Syntax highlighted code block
