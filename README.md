@@ -17,7 +17,8 @@
 12. [Calculator](https://yuriy-stryzhak.github.io/calculator/)
 13. [Sliders](https://yuriy-stryzhak.github.io/sliders/)
 14. [Movies](https://yuriy-stryzhak.github.io/movies/)
-15. [Monticello]()
+15. [Monticello](https://yuriy-stryzhak.github.io/monticello/)
+16. [Products card (Vue.js)](https://yuriy-stryzhak.github.io/products-card/)
 
 ```markdown
 Syntax highlighted code block
