@@ -7,6 +7,10 @@
 2. [Next simple page](https://yuriy-stryzhak.github.io/next-simple-page/)
 3. [Some page](https://yuriy-stryzhak.github.io/some-page/)
 4. [Next some page](https://yuriy-stryzhak.github.io/next-some-page/)
+5. [Check List](https://yuriy-stryzhak.github.io/check-list/)
+6. [Newsletter (simple form)](https://yuriy-stryzhak.github.io/simple-form/)
+7. [Cahee (landing page)](https://yuriy-stryzhak.github.io/cahee/)
+8. [Sign in form](https://yuriy-stryzhak.github.io/sign-in-form/)
 
 ```markdown
 Syntax highlighted code block
