@@ -3,7 +3,8 @@
 
 ### Training
 
-1. [Simple Page](https://yuriy-stryzhak.github.io/simple-page/)
+1. [Simple page](https://yuriy-stryzhak.github.io/simple-page/)
+2. [Next simple page](https://yuriy-stryzhak.github.io/next-simple-page/)
 
 ```markdown
 Syntax highlighted code block
