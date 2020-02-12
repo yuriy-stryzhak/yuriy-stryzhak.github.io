@@ -1,6 +1,10 @@
 ## Welcome to my Portfolio
 
 
+### My some work
+
+
+
 ### Training
 
 1. [Simple page](https://yuriy-stryzhak.github.io/simple-page/)
@@ -19,7 +23,7 @@
 14. [Movies](https://yuriy-stryzhak.github.io/movies/)
 15. [Monticello](https://yuriy-stryzhak.github.io/monticello/)
 16. [Products card (Vue.js)](https://yuriy-stryzhak.github.io/products-card/)
-17. [Themoviedb (Vue.js, Webpack)](https://yuriy-stryzhak.github.io/themoviedb/)
+17. [Themoviedb](https://yuriy-stryzhak.github.io/themoviedb/) (Vue.js, Webpack)
 
 ```markdown
 Syntax highlighted code block
