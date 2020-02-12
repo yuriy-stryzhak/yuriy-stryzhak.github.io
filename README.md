@@ -11,8 +11,10 @@
 7. [многовывесок.рф](http://xn--b1aabkzhhibd6a3i.xn--p1ai/) (PSD to HTML, Landing Page)
 8. [земля-уфа.рф](http://xn----8sbnhvf5ci0h.xn--p1ai/) (PSD to HTML, Landing Page)
 9. [уфа-видеонаблюдение.рф](https://xn----7sbbedmcfda0ag0bzafj2fsa5r.xn--p1ai/) (PSD to HTML, Landing Page)
-10. [vin102.ru](https://vin102.ru/) (PSD to HTML, Wordpress)
-11. 
+10. [vin102.ru](https://vin102.ru/) (PSD to HTML, Wordpress, Woocommerce)
+11. [center-laser-surgery.ru](http://center-laser-surgery.ru/) (PSD to HTML, Wordpress)
+12. [akula-k.ru](https://akula-k.ru/) (PSD to HTML, Wordpress)
+13. [benzopilaufa.ru](http://benzopilaufa.ru/) (PSD to HTML, Landing Page)
 
 ### Training
 
