@@ -7,7 +7,12 @@
 3. [bash-rent.ru](https://bash-rent.ru/) (PSD to HTML, Landing Page)
 4. [www.c-decor.ru](http://www.c-decor.ru/) (PSD to HTML, Wordpress)
 5. [lighthouseufa.ru](https://lighthouseufa.ru/) (PSD to HTML, Landing Page)
-
+6. [дск43.рф](http://xn--43-jlcy8a.xn--p1ai/) (PSD to HTML, Wordpress)
+7. [многовывесок.рф](http://xn--b1aabkzhhibd6a3i.xn--p1ai/) (PSD to HTML, Landing Page)
+8. [земля-уфа.рф](http://xn----8sbnhvf5ci0h.xn--p1ai/) (PSD to HTML, Landing Page)
+9. [уфа-видеонаблюдение.рф](https://xn----7sbbedmcfda0ag0bzafj2fsa5r.xn--p1ai/) (PSD to HTML, Landing Page)
+10. [vin102.ru](https://vin102.ru/) (PSD to HTML, Wordpress)
+11. 
 
 ### Training
 
