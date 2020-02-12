@@ -1,7 +1,7 @@
 ## Welcome to my Portfolio
 
 
-### My some work
+### **My some work**
 1. [stroypostavka102.ru](https://stroypostavka102.ru/) (PSD to HTML, Wordpress)
 2. [baby-club-ufa.ru](https://baby-club-ufa.ru/) (PSD to HTML, Landing Page)
 3. [bash-rent.ru](https://bash-rent.ru/) (PSD to HTML, Landing Page)
@@ -18,7 +18,7 @@
 14. [jcbmoscow.ru](http://jcbmoscow.ru/) (PSD to HTML, Wordpress)
 15. [koronamebel.ru](http://koronamebel.ru/) (Wordpress)
 
-### Training
+### **Training**
 
 1. [Simple page](https://yuriy-stryzhak.github.io/simple-page/)
 2. [Next simple page](https://yuriy-stryzhak.github.io/next-simple-page/)
@@ -37,21 +37,3 @@
 15. [Monticello](https://yuriy-stryzhak.github.io/monticello/)
 16. [Products card](https://yuriy-stryzhak.github.io/products-card/) (Vue.js)
 17. [Themoviedb](https://yuriy-stryzhak.github.io/themoviedb/) (Vue.js, Webpack)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
