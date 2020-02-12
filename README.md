@@ -15,6 +15,8 @@
 11. [center-laser-surgery.ru](http://center-laser-surgery.ru/) (PSD to HTML, Wordpress)
 12. [akula-k.ru](https://akula-k.ru/) (PSD to HTML, Wordpress)
 13. [benzopilaufa.ru](http://benzopilaufa.ru/) (PSD to HTML, Landing Page)
+14. [jcbmoscow.ru](http://jcbmoscow.ru/) (PSD to HTML, Wordpress)
+15. [koronamebel.ru](http://koronamebel.ru/) (Wordpress)
 
 ### Training
 
