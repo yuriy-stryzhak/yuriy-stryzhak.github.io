@@ -38,3 +38,6 @@
 15. [Monticello](https://yuriy-stryzhak.github.io/monticello/)
 16. [Products card](https://yuriy-stryzhak.github.io/products-card/) (Vue.js)
 17. [Themoviedb](https://yuriy-stryzhak.github.io/themoviedb/) (Vue.js, Webpack)
+
+
+**Contact with me** [LinkedIn](https://www.linkedin.com/in/yuriy-stryzhak/)
