@@ -18,6 +18,7 @@
 13. [benzopilaufa.ru](http://benzopilaufa.ru/) (PSD to HTML, Landing Page)
 14. [jcbmoscow.ru](http://jcbmoscow.ru/) (PSD to HTML, Wordpress)
 15. [koronamebel.ru](http://koronamebel.ru/) (Wordpress)
+16. [LP for WGP.global](https://yuriy-stryzhak.github.io/wgp-lp1/) (Layout from Figma then adding to the HubSpot CRM)
 
 ### **Training**
 
