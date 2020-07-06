@@ -20,6 +20,7 @@
 15. [koronamebel.ru](http://koronamebel.ru/) (Wordpress)
 16. [LP 1 for WGP.global](https://yuriy-stryzhak.github.io/wgp-lp1/) (Layout from Figma then adding to the HubSpot CRM)
 17. [LP 2 for WGP.global](https://yuriy-stryzhak.github.io/wgp-lp2/) (Layout from Figma then adding to the HubSpot CRM)
+18. [LP 2 for WGP.global](https://yuriy-stryzhak.github.io/wgp-lp3/) (Layout from Figma then adding to the HubSpot CRM)
 
 ### **Training**
 
