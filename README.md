@@ -41,6 +41,7 @@
 15. [Monticello](https://yuriy-stryzhak.github.io/monticello/)
 16. [Products card](https://yuriy-stryzhak.github.io/products-card/) (Vue.js)
 17. [Themoviedb](https://yuriy-stryzhak.github.io/themoviedb/) (Vue.js, Webpack)
+18. [МУВ](https://yuriy-stryzhak.github.io/muv/) (Layout from Figma)
 
 
 **Contact with me** [LinkedIn](https://www.linkedin.com/in/yuriy-stryzhak/)
