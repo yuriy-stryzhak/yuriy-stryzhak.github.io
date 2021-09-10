@@ -1,3 +1,7 @@
+**Contact with me** [LinkedIn](https://www.linkedin.com/in/yuriy-stryzhak/)
+
+
+
 ## Welcome to my Portfolio
 
 
@@ -45,4 +49,4 @@
 19. [Money](https://yuriy-stryzhak.github.io/gsap/) (GSAP test)
 
 
-**Contact with me** [LinkedIn](https://www.linkedin.com/in/yuriy-stryzhak/)
+
