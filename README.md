@@ -1,5 +1,5 @@
 **Contact with me** [LinkedIn](https://www.linkedin.com/in/yuriy-stryzhak/)  
-
+&nbsp;
 ## Welcome to my Portfolio  
 
 ### **My some works**
