@@ -1,8 +1,6 @@
 **Contact with me** [LinkedIn](https://www.linkedin.com/in/yuriy-stryzhak/)
 \
-\
 ## Welcome to my Portfolio  
-\
 \
 ### **My some works**
 1. [stroypostavka102.ru](https://stroypostavka102.ru/) (PSD to HTML, Wordpress)
