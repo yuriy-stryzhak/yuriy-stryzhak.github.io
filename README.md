@@ -28,7 +28,7 @@
 2. [Next simple page](https://yuriy-stryzhak.github.io/next-simple-page/)
 3. [Some page](https://yuriy-stryzhak.github.io/some-page/)
 4. [Next some page](https://yuriy-stryzhak.github.io/next-some-page/)
-5. [Check List](https://yuriy-stryzhak.github.io/check-list/)
+5. [Check List](https://yuriy-stryzhak.github.io/check-list/) (Vanila JavaScript)
 6. [Newsletter](https://yuriy-stryzhak.github.io/simple-form/) (simple form)
 7. [Cahee](https://yuriy-stryzhak.github.io/cahee/) (landing page)
 8. [Sign in form](https://yuriy-stryzhak.github.io/sign-in-form/)
