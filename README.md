@@ -2,6 +2,7 @@
 &nbsp;
 ## Welcome to my Portfolio  
 
+&nbsp;
 ### **My work, training**
 
 1. [Simple page](https://yuriy-stryzhak.github.io/simple-page/)
