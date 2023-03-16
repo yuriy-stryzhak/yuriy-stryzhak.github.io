@@ -3,6 +3,21 @@
 ## Welcome to my Portfolio  
 
 &nbsp;
+### **Some of the latest projects**
+
+1. [hackett.com](https://www.hackett.com/) (SFCC, ISML, SASS, JavaScript)
+2. [faconnable.com](https://www.faconnable.com/) (SFCC, ISML, SASS, JavaScript)
+3. [pepejeans.com](https://www.pepejeans.com/) (SFCC, ISML, SASS, JavaScript)
+4. [talent.rocken.io](https://talent.rocken.io/) (Vue.js, Webpack)
+5. [rocken.jobs](https://rocken.jobs/) (Wordpress, JQuery)
+6. [rocken.io](https://rocken.io/) (Wordpress, JQuery, Bootstrap)
+7. [deinschrank.de](https://www.deinschrank.de/) (JQuery, Bootstrap)
+8. [flyttesiden.no](https://flyttesiden.no/) (Wordpress, JQuery)
+9. [clitec.ch](https://clitec.ch/) (Wordpress, JQuery)
+10. [netpixelmedia.com](https://netpixelmedia.com/)
+11. [saner-apotheke.ch](https://saner-apotheke.ch/) (Wordpress, JQuery)
+12. [midsizebanks.com](https://midsizebanks.com/) (Wordpress, JQuery)
+
 ### **My work, training**
 
 1. [Simple page](https://yuriy-stryzhak.github.io/simple-page/)
