@@ -5,6 +5,13 @@
 &nbsp;
 ### **Some of the latest projects**
 
+-  [wijjipay.com](https://dzing.cards/) (Vue2, Webpack, VueX, SASS)
+-  [wijjipay.com](https://my.wijjipay.com/) (Vue2, Vue3, Vuetify, Vite, Pinia, SASS)
+-  [granpay.ca](https://granpay.ca/) (Wordpress, JS, JQuery, CSS3, GSAP ...)
+-  [dobro.ua](https://dobro.ua/) (Python, Django, SASS, JavaScript, jQuery)
+-  [myglo.com.ua](https://myglo.com.ua/) (Shopify, liquid, SASS, JavaScript, jQuery)
+-  [pulti.ua](https://pulti.ua/) (Opencart, JS, SCSS)
+
 1. [hackett.com](https://www.hackett.com/) (SFCC, ISML, SASS, JavaScript)
 2. [faconnable.com](https://www.faconnable.com/) (SFCC, ISML, SASS, JavaScript)
 3. [pepejeans.com](https://www.pepejeans.com/) (SFCC, ISML, SASS, JavaScript)
