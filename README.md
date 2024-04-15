@@ -5,7 +5,7 @@
 &nbsp;
 ### **Some of the latest projects**
 
--  [wijjipay.com](https://dzing.cards/) (Vue2, Webpack, VueX, SASS)
+-  [dzing.cards](https://dzing.cards/) (Vue2, Webpack, VueX, SASS)
 -  [wijjipay.com](https://my.wijjipay.com/) (Vue2, Vue3, Vuetify, Vite, Pinia, SASS)
 -  [granpay.ca](https://granpay.ca/) (Wordpress, JS, JQuery, CSS3, GSAP ...)
 -  [dobro.ua](https://dobro.ua/) (Python, Django, SASS, JavaScript, jQuery)
