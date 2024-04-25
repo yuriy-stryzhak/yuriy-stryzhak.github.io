@@ -8,7 +8,7 @@
 -  [dzing.cards](https://dzing.cards/) (Vue2, Webpack, VueX, SASS)
 -  [wijjipay.com](https://my.wijjipay.com/) (Vue2, Vue3, Vuetify, Vite, Pinia, SASS)
 -  [granpay.ca](https://granpay.ca/) (Wordpress, JS, JQuery, CSS3, GSAP ...)
--  [dobro.ua](https://dobro.ua/) (Python, Django, SASS, JavaScript, jQuery)
+-  [dobro.ua](https://dobro.ua/) (SASS, JavaScript, jQuery)
 -  [myglo.com.ua](https://myglo.com.ua/) (Shopify, liquid, SASS, JavaScript, jQuery)
 -  [pulti.ua](https://pulti.ua/) (Opencart, JS, SCSS)
 
